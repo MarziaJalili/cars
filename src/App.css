@@ -16,7 +16,7 @@
 
 body {
   font-family: "Lexend Deca", sans-serif;
-  background-color: var(--Transparent-white-paragraphs);
+  background-color: var(--Very-light-gray);
   display: grid;
   place-items: center;
   padding: 3rem 1.5rem;
